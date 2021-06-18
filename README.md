@@ -1,4 +1,4 @@
-# Context_Free_Grammer_project
+# Theory_of_languages_projects
 
 This is my final project for Theory of languages coruse.
 
