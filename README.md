@@ -2,4 +2,4 @@
 
 This is my final project for Theory of languages coruse.
 
-This project is about Context free grammer and PDA.
+This project is about Context free grammer and PDA and implemented using python.
